@@ -67,3 +67,75 @@
 
 #### 细节水平  
 中等细节，关注形式和颜色而非纹理或复杂性  
+
+
+
+英文版本
+
+# Art Style Profile
+
+## Style Name  
+Minimalist 3D Illustration
+
+## Purpose  
+To create clean, aesthetically pleasing visuals that emphasize simplicity, approachability, and modernity.
+
+## Visual Elements  
+### Shape Language  
+Rounded edges, smooth and soft forms with simplified geometry  
+
+### Colors  
+#### Primary Palette  
+- Soft beige  
+- Light gray  
+- Warm orange  
+
+#### Accent Colors  
+- Warm orange for focal elements  
+
+#### Shading  
+Soft gradients with smooth transitions, avoiding harsh shadows or highlights  
+
+### Lighting  
+#### Type  
+Soft, diffused lighting  
+
+#### Source Direction  
+Above and slightly to the right  
+
+#### Shadow Style  
+Subtle and diffused, no sharp or high-contrast shadows  
+
+### Materials  
+#### Surface Texture  
+Matte, smooth surfaces with subtle shading  
+
+#### Reflectivity  
+Low to none, avoiding glossiness  
+
+### Composition  
+#### Object Presentation  
+Single, central object displayed in isolation with ample negative space  
+
+#### Perspective  
+Slightly angled, giving a three-dimensional feel without extreme depth  
+
+#### Background  
+Solid, muted color that complements the object without distraction  
+
+### Typography  
+#### Font Style  
+Minimalistic, sans-serif  
+
+#### Text Placement  
+Bottom-left corner with small, subtle text  
+
+#### Color  
+Gray, low-contrast against the background  
+
+### Rendering Style  
+#### Technique  
+3D render with simplified, low-poly aesthetics  
+
+#### Detail Level  
+Medium detail, focusing on form and color over texture or intricacy  
